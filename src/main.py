@@ -36,12 +36,16 @@ def markdown_header(translation: dict, locale: str):
         if translation[i]["locale"] == locale:
             locale_translation = translation[i]["translation"]
     data = [
-        locale_translation["package_name"],
-        locale_translation["institution_name"],
-        locale_translation["maintainer_type"],
-        locale_translation["repository"],
-        locale_translation["ctan_package"],
-        locale_translation["status"],
+        locale_translation["engine_system"],
+        locale_translation["engine_name"],
+        locale_translation["engine_main_language"],
+        locale_translation["status_alive"],
+        locale_translation["native_engine_support"],
+        locale_translation["bi_directional_import_export"],
+        locale_translation["importable_from_unigal"],
+        locale_translation["exportable_to_unigal"],
+        locale_translation["no_support_planned"],
+        locale_translation["is_free"],
     ]
     return markdown_row(data)
 
@@ -51,23 +55,18 @@ def markdown_table(length: int):
     return markdown_row(data)
 
 
-def markdown_entry(thesis_entry: dict):
+def markdown_entry(engine_entry: dict):
     data = [
-        thesis_entry["package_name"],
-        thesis_entry["institution_name"],
-        thesis_entry["maintainer_type"],
-        repos(
-            maintainer_type=thesis_entry["maintainer_type"],
-            repository_github=thesis_entry["repository_github"],
-            repository_gitlab=thesis_entry["repository_gitlab"],
-            repository_gitee=thesis_entry["repository_gitee"],
-            repository_gitea=thesis_entry["repository_gitea"],
-        ),
-        badge(
-            link=thesis_entry["ctan_package"],
-            badge_type="ctan",
-        ),
-        thesis_entry["status"],
+        engine_entry["engine_system"],
+        engine_entry["engine_name"],
+        engine_entry["engine_main_language"],
+        engine_entry["status_alive"],
+        engine_entry["native_engine_support"],
+        engine_entry["bi_directional_import_export"],
+        engine_entry["importable_from_unigal"],
+        engine_entry["exportable_to_unigal"],
+        engine_entry["no_support_planned"],
+        engine_entry["is_free"],
     ]
     return markdown_row(data)
 
@@ -133,5 +132,3 @@ def readme_gen(readme_locale):
 
 
 readme_gen("")
-readme_gen("zh-CN")
-readme_gen("en-US")

@@ -2,16 +2,19 @@
     "len": 8,
     "i18n": [
         {
-            "engine_system": "引擎代系",
-            "engine_name": "引擎名称",
-            "engine_main_language": "引擎主流语言",
-            "status_alive": "存活状态",
-            "native_engine_support": "引擎原生支持",
-            "bi_directional_import_export": "双向导入导出",
-            "importable_from_unigal": "可从Unigal导入",
-            "exportable_to_unigal": "可导出为Unigal",
-            "no_support_planned": "暂无支持计划",
-            "is_free": "是否自由"
+            "locale": "zh-CN",
+            "translation": {
+                "engine_system": "引擎代系",
+                "engine_name": "引擎名称",
+                "engine_main_language": "引擎主流语言",
+                "status_alive": "存活状态",
+                "native_engine_support": "引擎原生支持",
+                "bi_directional_import_export": "双向导入导出",
+                "importable_from_unigal": "可从Unigal导入",
+                "exportable_to_unigal": "可导出为Unigal",
+                "no_support_planned": "暂无支持计划",
+                "is_free": "是否自由"
+            }
         }
     ]
 }
