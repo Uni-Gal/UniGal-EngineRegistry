@@ -263,8 +263,30 @@
             "可导出为Unigal": "",
             "暂无支持计划": "语法简单适合支持",
             "是否自由": "MIT"
+        },
+        {
+            "引擎代系": "rust",
+            "引擎名称": "[Ayaka](https://github.com/Uni-Gal/Ayaka)",
+            "引擎主流语言": "ayaka script",
+            "存活状态": "活跃",
+            "引擎原生支持": "",
+            "双向导入导出": "",
+            "可从Unigal导入": "",
+            "可导出为Unigal": "",
+            "暂无支持计划": "语法简单适合支持",
+            "是否自由": "MIT"
+        },
+        {
+            "引擎代系": "未知",
+            "引擎名称": "[VNFrameworkCore](https://github.com/soryu-ryouji/VNFrameworkCore)",
+            "引擎主流语言": "C#",
+            "存活状态": "活跃",
+            "引擎原生支持": "",
+            "双向导入导出": "",
+            "可从Unigal导入": "",
+            "可导出为Unigal": "",
+            "暂无支持计划": "语法简单适合支持",
+            "是否自由": "MIT"
         }
     ]
 }
-// ~~另有TUNA正在研发的Gal引擎，可见[“开源软件供应链点亮计划——暑期2022”项目提案](https://tuna.moe/blog/2022/ospp-summer-2022/)~~
-// https://github.com/soryu-ryouji/VNFrameworkCore
