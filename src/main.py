@@ -5,24 +5,6 @@ syntax_1 = "<!-- MARKDOWN_TABLE BEGIN -->"
 syntax_2 = "<!-- WARNING: THIS TABLE IS MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->"
 syntax_3 = "<!-- MARKDOWN_TABLE END -->"
 
-
-def x_sort(data):
-    def compare(dict_a: dict, dict_b: dict):
-        dict_a_packagename = (
-            dict_a["engine_name"].replace("_", "").replace("-", "").lower()
-        )
-        dict_b_packagename = (
-            dict_b["engine_name"].replace("_", "").replace("-", "").lower()
-        )
-        if dict_a_packagename < dict_b_packagename:
-            return -1
-        if dict_a_packagename > dict_b_packagename:
-            return 1
-
-    data = sorted(data, key=cmp_to_key(compare))
-    return data
-
-
 def markdown_row(data: list):
     string = ""
     for i in data:
@@ -87,8 +69,10 @@ def markdown_gen(locale: str):
     string += markdown_table(
         column_data["len"],
     )
-    # ALT CODE: engine_data.sort(key=lambda x: x["engine_name"])
-    engine_data = x_sort(engine_data)
+    # WRONG CODE: engine_data.sort(key=lambda x: x["engine_name"])
+    # engine_data = x_sort(engine_data)
+    # engine_data.sort(key=lambda x: (x["is_free"],x["engine_name"]), reverse=True)
+    engine_data.sort(key=lambda x: (not x["is_free"], x["engine_name"]))
     for i in range(len(engine_data)):
         string += markdown_entry(engine_data[i])
     return string
