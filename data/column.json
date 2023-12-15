@@ -1,11 +1,12 @@
 {
-    "len": 10,
+    "len": 12,
     "i18n": [
         {
             "locale": "zh-CN",
             "translation": {
-                "engine_system": "引擎代系",
+                "engine_uid": "引擎名称",
                 "engine_name": "引擎名称",
+                "engine_techstack": "引擎代系",
                 "engine_main_language": "引擎主流语言",
                 "status_alive": "存活状态",
                 "native_engine_support": "引擎原生支持",
@@ -13,7 +14,8 @@
                 "importable_from_unigal": "可从Unigal导入",
                 "exportable_to_unigal": "可导出为Unigal",
                 "no_support_planned": "暂无支持计划",
-                "is_free": "是否自由"
+                "is_free": "是否自由",
+                "link": "官方网站或仓库"
             }
         }
     ]

@@ -1,7 +1,8 @@
 {
     "engine_data": [
         {
-            "engine_system": "Krkr",
+            "engine_uid": "",
+            "engine_techstack": "Krkr",
             "engine_name": "Krkr",
             "engine_main_language": "TJS",
             "status_alive": "已停止维护",
@@ -10,11 +11,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "面包工坊",
-            "engine_name": "[BKEngine](https://bke.bakery.moe/index.html)",
+            "engine_uid": "",
+            "engine_name": "BKEngine",
+            "engine_techstack": "面包工坊",
             "engine_main_language": "bkspr (.bkspr)",
             "status_alive": "已停止维护",
             "native_engine_support": "",
@@ -22,11 +25,13 @@
             "importable_from_unigal": "√（开发中）",
             "exportable_to_unigal": "",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": "https://bke.bakery.moe/index.html"
         },
         {
-            "engine_system": "Unity",
-            "engine_name": "[Unity-Nova](https://github.com/Lunatic-Works/Nova)([语法](https://github.com/Lunatic-Works/Nova/wiki/NovaScript))",
+            "engine_uid": "",
+            "engine_name": "[Unity-Nova](https://github.com/Lunatic-Works/Nova/wiki/NovaScript)",
+            "engine_techstack": "Unity",
             "engine_main_language": "Lua/C# (.txt)",
             "status_alive": "**活跃**",
             "native_engine_support": "（正在说服开发者）",
@@ -34,11 +39,13 @@
             "importable_from_unigal": "√（开发中）",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": "https://github.com/Lunatic-Works/Nova"
         },
         {
-            "engine_system": "Unity",
-            "engine_name": "[Unity-Naninovel](https://naninovel.com/)([语法](https://naninovel.com/guide/naninovel-scripts.html))",
+            "engine_uid": "",
+            "engine_name": "[Unity-Naninovel](https://naninovel.com/guide/naninovel-scripts.html)",
+            "engine_techstack": "Unity",
             "engine_main_language": "JS (.nani)",
             "status_alive": "**活跃**",
             "native_engine_support": "做梦",
@@ -46,11 +53,13 @@
             "importable_from_unigal": "做梦",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": "https://naninovel.com/"
         },
         {
-            "engine_system": "Python",
-            "engine_name": "[Librian](http://librian.net/)",
+            "engine_uid": "",
+            "engine_name": "Librian",
+            "engine_techstack": "Python",
             "engine_main_language": "liber",
             "status_alive": "**活跃**",
             "native_engine_support": "（正在说服开发者）",
@@ -58,11 +67,13 @@
             "importable_from_unigal": "√（开发中）",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": "http://librian.net/"
         },
         {
-            "engine_system": "js",
-            "engine_name": "[AVGPlus](https://avg-engine.com/)",
+            "engine_uid": "",
+            "engine_name": "AVGPlus",
+            "engine_techstack": "js",
             "engine_main_language": "json",
             "status_alive": "**活跃**",
             "native_engine_support": "（考虑要不要联系开发者）",
@@ -70,11 +81,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": "https://avg-engine.com/"
         },
         {
-            "engine_system": "js",
+            "engine_uid": "",
             "engine_name": "AVG.js",
+            "engine_techstack": "js",
             "engine_main_language": "json",
             "status_alive": "未知",
             "native_engine_support": "",
@@ -82,11 +95,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "js",
-            "engine_name": "[WebGal](https://github.com/MakinoharaShoko/WebGAL)",
+            "engine_uid": "",
+            "engine_name": "WebGal",
+            "engine_techstack": "js",
             "engine_main_language": "未知",
             "status_alive": "未知",
             "native_engine_support": "",
@@ -94,11 +109,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": "https://github.com/MakinoharaShoko/WebGAL"
         },
         {
-            "engine_system": "js",
+            "engine_uid": "",
             "engine_name": "Renjs",
+            "engine_techstack": "js",
             "engine_main_language": "javascript",
             "status_alive": "未知",
             "native_engine_support": "",
@@ -106,11 +123,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "Python",
-            "engine_name": "[Renpy](https://www.renpy.org/)",
+            "engine_uid": "",
+            "engine_name": "Renpy",
+            "engine_techstack": "Python",
             "engine_main_language": "Python (.rpy)",
             "status_alive": "**活跃**",
             "native_engine_support": "",
@@ -118,11 +137,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": "https://www.renpy.org/"
         },
         {
-            "engine_system": "Strrationalism",
-            "engine_name": "[YukimiScript](https://github.com/Strrationalism/YukimiScript)",
+            "engine_uid": "",
+            "engine_name": "YukimiScript",
+            "engine_techstack": "Strrationalism",
             "engine_main_language": "C++",
             "status_alive": "不能理解它到底有多少是属于非Galgame的，处于观察中",
             "native_engine_support": "",
@@ -130,11 +151,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "√（艰难开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": "https://github.com/Strrationalism/YukimiScript"
         },
         {
-            "engine_system": "json",
-            "engine_name": "[Monogatari](https://monogatari.io)",
+            "engine_uid": "",
+            "engine_name": "Monogatari",
+            "engine_techstack": "json",
             "engine_main_language": "json",
             "status_alive": "**活跃**",
             "native_engine_support": "",
@@ -142,11 +165,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": "https://monogatari.io"
         },
         {
-            "engine_system": "json",
+            "engine_uid": "",
             "engine_name": "GameCreator",
+            "engine_techstack": "json",
             "engine_main_language": "未知",
             "status_alive": "**活跃**",
             "native_engine_support": "（考虑要不要联系开发者）",
@@ -154,11 +179,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "Unity",
+            "engine_uid": "",
             "engine_name": "Unity-Utage",
+            "engine_techstack": "Unity",
             "engine_main_language": "C#",
             "status_alive": "**活跃**",
             "native_engine_support": "",
@@ -166,11 +193,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "",
             "no_support_planned": "√",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "Unity",
+            "engine_uid": "",
             "engine_name": "Unity-Fungus",
+            "engine_techstack": "Unity",
             "engine_main_language": "C#",
             "status_alive": "**活跃**",
             "native_engine_support": "",
@@ -178,11 +207,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "",
             "no_support_planned": "√",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "Unity",
+            "engine_uid": "",
             "engine_name": "Unity-Kirino-Engine",
+            "engine_techstack": "Unity",
             "engine_main_language": "C#",
             "status_alive": "已停止维护",
             "native_engine_support": "",
@@ -190,11 +221,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "",
             "no_support_planned": "√",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "Unity",
+            "engine_uid": "",
             "engine_name": "Unity-XiheAnimation",
+            "engine_techstack": "Unity",
             "engine_main_language": "C#",
             "status_alive": "未知",
             "native_engine_support": "",
@@ -202,11 +235,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "",
             "no_support_planned": "√",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "SDL",
+            "engine_uid": "",
             "engine_name": "VoidMatrix系列",
+            "engine_techstack": "SDL",
             "engine_main_language": "C++",
             "status_alive": "**活跃**",
             "native_engine_support": "（正在与开发者合作，已经提供XML读取支持了）",
@@ -214,11 +249,13 @@
             "importable_from_unigal": "√（开发中）",
             "exportable_to_unigal": "√（开发中）",
             "no_support_planned": "",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "橙光",
+            "engine_uid": "",
             "engine_name": "橙光文字游戏制作工具",
+            "engine_techstack": "橙光",
             "engine_main_language": "可视化",
             "status_alive": "**生不如死**",
             "native_engine_support": "",
@@ -226,11 +263,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "",
             "no_support_planned": "√",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "橙光",
+            "engine_uid": "",
             "engine_name": "iFAction",
+            "engine_techstack": "橙光",
             "engine_main_language": "可视化",
             "status_alive": "活跃",
             "native_engine_support": "",
@@ -238,11 +277,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "",
             "no_support_planned": "√",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "橙光",
+            "engine_uid": "",
             "engine_name": "EvkWorld幻境",
+            "engine_techstack": "橙光",
             "engine_main_language": "可视化",
             "status_alive": "未知",
             "native_engine_support": "",
@@ -250,11 +291,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "",
             "no_support_planned": "√",
-            "is_free": ""
+            "is_free": "",
+            "link": ""
         },
         {
-            "engine_system": "js",
-            "engine_name": "[Ink](https://www.inklestudios.com/ink/)",
+            "engine_uid": "",
+            "engine_name": "Ink",
+            "engine_techstack": "js",
             "engine_main_language": "YAML",
             "status_alive": "活跃",
             "native_engine_support": "",
@@ -262,11 +305,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "",
             "no_support_planned": "语法简单适合支持",
-            "is_free": "MIT"
+            "is_free": "MIT",
+            "link": "https://www.inklestudios.com/ink/"
         },
         {
-            "engine_system": "rust",
-            "engine_name": "[Ayaka](https://github.com/Uni-Gal/Ayaka)",
+            "engine_uid": "",
+            "engine_name": "Ayaka",
+            "engine_techstack": "rust",
             "engine_main_language": "ayaka script",
             "status_alive": "活跃",
             "native_engine_support": "",
@@ -274,11 +319,13 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "",
             "no_support_planned": "语法简单适合支持",
-            "is_free": "MIT"
+            "is_free": "MIT",
+            "link": "https://github.com/Uni-Gal/Ayaka"
         },
         {
-            "engine_system": "未知",
-            "engine_name": "[VNFrameworkCore](https://github.com/soryu-ryouji/VNFrameworkCore)",
+            "engine_uid": "",
+            "engine_name": "VNFrameworkCore",
+            "engine_techstack": "未知",
             "engine_main_language": "C#",
             "status_alive": "活跃",
             "native_engine_support": "",
@@ -286,7 +333,8 @@
             "importable_from_unigal": "",
             "exportable_to_unigal": "",
             "no_support_planned": "语法简单适合支持",
-            "is_free": "MIT"
+            "is_free": "MIT",
+            "link": "https://github.com/soryu-ryouji/VNFrameworkCore"
         }
     ]
 }
