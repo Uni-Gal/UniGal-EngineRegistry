@@ -15,12 +15,13 @@ def x_sort(data):
             dict_b["engine_name"].replace("_", "").replace("-", "").lower()
         )
         if dict_a_packagename < dict_b_packagename:
-                return -1
+            return -1
         if dict_a_packagename > dict_b_packagename:
-                return 1
+            return 1
 
     data = sorted(data, key=cmp_to_key(compare))
     return data
+
 
 def markdown_row(data: list):
     string = ""
@@ -51,7 +52,7 @@ def markdown_header(translation: dict, locale: str):
 
 
 def markdown_table(length: int):
-    data = ["-", "-", "-", "-", "-", "-"]
+    data = ["-" for i in range(length)]
     return markdown_row(data)
 
 
