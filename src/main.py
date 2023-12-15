@@ -37,16 +37,17 @@ def markdown_header(translation: dict, locale: str):
         if translation[i]["locale"] == locale:
             locale_translation = translation[i]["translation"]
     data = [
-        locale_translation["engine_system"],
+        locale_translation["engine_uid"],
         locale_translation["engine_name"],
-        locale_translation["engine_main_language"],
-        locale_translation["status_alive"],
-        locale_translation["native_engine_support"],
-        locale_translation["bi_directional_import_export"],
-        locale_translation["importable_from_unigal"],
-        locale_translation["exportable_to_unigal"],
-        locale_translation["no_support_planned"],
+        locale_translation["engine_techstack"],
+        locale_translation["engine_script"],
+        locale_translation["status"],
+        locale_translation["unigal_support"],
+        locale_translation["unigal_interoperation"],
+        locale_translation["unigal_load"],
+        locale_translation["unigal_dump"],
         locale_translation["is_free"],
+        locale_translation["link"],
     ]
     return markdown_row(data)
 
@@ -58,16 +59,17 @@ def markdown_table(length: int):
 
 def markdown_entry(engine_entry: dict):
     data = [
-        engine_entry["engine_system"],
+        engine_entry["engine_uid"],
         engine_entry["engine_name"],
-        engine_entry["engine_main_language"],
-        engine_entry["status_alive"],
-        engine_entry["native_engine_support"],
-        engine_entry["bi_directional_import_export"],
-        engine_entry["importable_from_unigal"],
-        engine_entry["exportable_to_unigal"],
-        engine_entry["no_support_planned"],
+        engine_entry["engine_techstack"],
+        engine_entry["engine_script"],
+        engine_entry["status"],
+        engine_entry["unigal_support"],
+        engine_entry["unigal_interoperation"],
+        engine_entry["unigal_load"],
+        engine_entry["unigal_dump"],
         engine_entry["is_free"],
+        engine_entry["link"],
     ]
     return markdown_row(data)
 

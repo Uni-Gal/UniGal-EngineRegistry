@@ -1,19 +1,18 @@
 {
-    "len": 12,
+    "len": 11,
     "i18n": [
         {
             "locale": "zh-CN",
             "translation": {
-                "engine_uid": "引擎名称",
+                "engine_uid": "引擎唯一标识",
                 "engine_name": "引擎名称",
-                "engine_techstack": "引擎代系",
-                "engine_main_language": "引擎主流语言",
-                "status_alive": "存活状态",
-                "native_engine_support": "引擎原生支持",
-                "bi_directional_import_export": "双向导入导出",
-                "importable_from_unigal": "可从Unigal导入",
-                "exportable_to_unigal": "可导出为Unigal",
-                "no_support_planned": "暂无支持计划",
+                "engine_techstack": "引擎技术栈语言",
+                "engine_script": "引擎脚本语言",
+                "status": "存活状态",
+                "unigal_support": "UniGal适配程度",
+                "unigal_interoperation": "双向导入导出",
+                "unigal_load": "可从Unigal导入",
+                "unigal_dump": "可导出为Unigal",
                 "is_free": "是否自由",
                 "link": "官方网站或仓库"
             }
