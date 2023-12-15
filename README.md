@@ -4,32 +4,32 @@
 
 <!-- MARKDOWN_TABLE BEGIN -->
 <!-- WARNING: THIS TABLE IS MAINTAINED BY PROGRAMME, YOU SHOULD ADD DATA TO COLLECTION JSON -->
-| 引擎代系 | 引擎名称 | 引擎主流语言 | 存活状态 | 引擎原生支持 | 双向导入导出 | 可从Unigal导入 | 可导出为Unigal | 暂无支持计划 | 是否自由 |
-| - | - | - | - | - | - | - | - | - | - |
-| js | [AVGPlus](https://avg-engine.com/) | json | **活跃** | （考虑要不要联系开发者） |  |  | √（开发中） |  |  |
-| rust | [Ayaka](https://github.com/Uni-Gal/Ayaka) | ayaka script | 活跃 |  |  |  |  | 语法简单适合支持 | MIT |
-| 面包工坊 | [BKEngine](https://bke.bakery.moe/index.html) | bkspr (.bkspr) | 已停止维护 |  |  | √（开发中） |  |  |  |
-| js | [Ink](https://www.inklestudios.com/ink/) | YAML | 活跃 |  |  |  |  | 语法简单适合支持 | MIT |
-| Python | [Librian](http://librian.net/) | liber | **活跃** | （正在说服开发者） | √（开发中） | √（开发中） | √（开发中） |  |  |
-| json | [Monogatari](https://monogatari.io) | json | **活跃** |  |  |  | √（开发中） |  |  |
-| Python | [Renpy](https://www.renpy.org/) | Python (.rpy) | **活跃** |  |  |  | √（开发中） |  |  |
-| Unity | [Unity-Naninovel](https://naninovel.com/)([语法](https://naninovel.com/guide/naninovel-scripts.html)) | JS (.nani) | **活跃** | 做梦 | 做梦 | 做梦 | √（开发中） |  |  |
-| Unity | [Unity-Nova](https://github.com/Lunatic-Works/Nova)([语法](https://github.com/Lunatic-Works/Nova/wiki/NovaScript)) | Lua/C# (.txt) | **活跃** | （正在说服开发者） | √（开发中） | √（开发中） | √（开发中） |  |  |
-| 未知 | [VNFrameworkCore](https://github.com/soryu-ryouji/VNFrameworkCore) | C# | 活跃 |  |  |  |  | 语法简单适合支持 | MIT |
-| js | [WebGal](https://github.com/MakinoharaShoko/WebGAL) | 未知 | 未知 |  |  |  | √（开发中） |  |  |
-| Strrationalism | [YukimiScript](https://github.com/Strrationalism/YukimiScript) | C++ | 不能理解它到底有多少是属于非Galgame的，处于观察中 |  |  |  | √（艰难开发中） |  |  |
-| js | AVG.js | json | 未知 |  |  |  | √（开发中） |  |  |
-| 橙光 | EvkWorld幻境 | 可视化 | 未知 |  |  |  |  | √ |  |
-| json | GameCreator | 未知 | **活跃** | （考虑要不要联系开发者） |  |  | √（开发中） |  |  |
-| 橙光 | iFAction | 可视化 | 活跃 |  |  |  |  | √ |  |
-| Krkr | Krkr | TJS | 已停止维护 |  |  |  | √（开发中） |  |  |
-| js | Renjs | javascript | 未知 |  |  |  | √（开发中） |  |  |
-| Unity | Unity-Fungus | C# | **活跃** |  |  |  |  | √ |  |
-| Unity | Unity-Kirino-Engine | C# | 已停止维护 |  |  |  |  | √ |  |
-| Unity | Unity-Utage | C# | **活跃** |  |  |  |  | √ |  |
-| Unity | Unity-XiheAnimation | C# | 未知 |  |  |  |  | √ |  |
-| SDL | VoidMatrix系列 | C++ | **活跃** | （正在与开发者合作，已经提供XML读取支持了） | √（开发中） | √（开发中） | √（开发中） |  |  |
-| 橙光 | 橙光文字游戏制作工具 | 可视化 | **生不如死** |  |  |  |  | √ |  |
+| 引擎唯一标识 | 引擎名称 | 引擎技术栈语言 | 引擎脚本语言 | 存活状态 | UniGal适配程度 | 双向导入导出 | 可从Unigal导入 | 可导出为Unigal | 是否自由 | 官方网站或仓库 |
+| - | - | - | - | - | - | - | - | - | - | - |
+|  | Ayaka | rust | ayaka script | 活跃 | 语法简单适合标准方研究支持 |  |  |  | MIT | https://github.com/Uni-Gal/Ayaka |
+|  | Ink | js | YAML | 活跃 | 语法简单适合标准方研究支持 |  |  |  | MIT | https://www.inklestudios.com/ink/ |
+|  | VNFrameworkCore | 未知 | C# | 活跃 | 语法简单适合标准方研究支持 |  |  |  | MIT | https://github.com/soryu-ryouji/VNFrameworkCore |
+|  | AVG.js | js | json | 未知 |  |  |  | √（开发中） |  |  |
+|  | AVGPlus | js | json | **活跃** | （考虑要不要联系开发者） |  |  | √（开发中） |  | https://avg-engine.com/ |
+|  | BKEngine | 面包工坊 | bkspr (.bkspr) | 已停止维护 |  |  | √（开发中） |  |  | https://bke.bakery.moe/index.html |
+|  | EvkWorld幻境 | 橙光 | 可视化 | 未知 | 暂无计划 |  |  |  |  |  |
+|  | GameCreator | json | 未知 | **活跃** | （考虑要不要联系开发者） |  |  | √（开发中） |  |  |
+|  | Krkr | Krkr | TJS | 已停止维护 |  |  |  | √（开发中） |  |  |
+|  | Librian | Python | liber | **活跃** | （正在说服开发者） | √（开发中） | √（开发中） | √（开发中） |  | http://librian.net/ |
+|  | Monogatari | json | json | **活跃** |  |  |  | √（开发中） |  | https://monogatari.io |
+|  | Renjs | js | javascript | 未知 |  |  |  | √（开发中） |  |  |
+|  | Renpy | Python | Python (.rpy) | **活跃** |  |  |  | √（开发中） |  | https://www.renpy.org/ |
+|  | Unity-Fungus | Unity | C# | **活跃** | 暂无计划 |  |  |  |  |  |
+|  | Unity-Kirino-Engine | Unity | C# | 已停止维护 | 暂无计划 |  |  |  |  |  |
+|  | Unity-Utage | Unity | C# | **活跃** | 暂无计划 |  |  |  |  |  |
+|  | Unity-XiheAnimation | Unity | C# | 未知 | 暂无计划 |  |  |  |  |  |
+|  | VoidMatrix系列 | SDL | C++ | **活跃** | （正在与开发者合作，已经提供XML读取支持了） | √（开发中） | √（开发中） | √（开发中） |  |  |
+|  | WebGal | js | 未知 | 未知 |  |  |  | √（开发中） |  | https://github.com/MakinoharaShoko/WebGAL |
+|  | YukimiScript | Strrationalism | C++ | 不能理解它到底有多少是属于非Galgame的，处于观察中 |  |  |  | √（艰难开发中） |  | https://github.com/Strrationalism/YukimiScript |
+|  | [Unity-Naninovel](https://naninovel.com/guide/naninovel-scripts.html) | Unity | JS (.nani) | **活跃** | 做梦 | 做梦 | 做梦 | √（开发中） |  | https://naninovel.com/ |
+|  | [Unity-Nova](https://github.com/Lunatic-Works/Nova/wiki/NovaScript) | Unity | Lua/C# (.txt) | **活跃** | （正在说服开发者） | √（开发中） | √（开发中） | √（开发中） |  | https://github.com/Lunatic-Works/Nova |
+|  | iFAction | 橙光 | 可视化 | 活跃 | 暂无计划 |  |  |  |  |  |
+|  | 橙光文字游戏制作工具 | 橙光 | 可视化 | **生不如死** | 暂无计划 |  |  |  |  |  |
 
 <!-- MARKDOWN_TABLE END -->
 
