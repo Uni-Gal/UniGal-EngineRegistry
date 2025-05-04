@@ -42,7 +42,9 @@
 
 ## 目前各类语言的编辑器支持详表
 
-| 引擎 | 文档 | 支持的编辑器 | 仓库 |
+编辑器支持包含语言引擎（LSP）支持和语法高亮支持两部分。
+
+| 引擎 | 对应文档 | 支持的编辑器 | 仓库 |
 |-|-|-|-|
 | BKEngine | [BKE官方教程](http://docs.bakery.moe/faq) | Sublime | [AllanZyne/BKS4Sublime](https://github.com/AllanZyne/BKS4Sublime) |
 | BKEngine | - | VSCode | [BKEngine/vscode-bkscr](https://github.com/BKEngine/vscode-bkscr) |
@@ -50,7 +52,7 @@
 | Unity-Nova | - | VSCode | [zhouhaoyu/vscode-nova-script](https://github.com/zhouhaoyu/vscode-nova-script) |
 | Naninovel | [Guide](https://naninovel.com/guide/ide-extension) | VSCode | [Naninovel/VSCode](https://github.com/Naninovel/VSCode) |
 
-注意，以上部分编辑器支持开发者维护较缓慢，可能不适合非开发者使用。
+注意，以上部分引擎的编辑器支持开发者维护较缓慢，可能不适合非开发者使用。
 
 ## 耻辱柱
 
