@@ -41,7 +41,7 @@
         },
         {
             "engine_uid": "",
-            "engine_name": "[Unity-Nova](https://github.com/Lunatic-Works/Nova/wiki/NovaScript)",
+            "engine_name": "[Nova](https://github.com/Lunatic-Works/Nova/wiki/NovaScript)",
             "engine_techstack": "Unity",
             "engine_script": "Lua/C# (.txt)",
             "status": "**活跃**",
@@ -54,7 +54,7 @@
         },
         {
             "engine_uid": "",
-            "engine_name": "[Unity-Naninovel](https://naninovel.com/guide/naninovel-scripts.html)",
+            "engine_name": "[Naninovel](https://naninovel.com/guide/naninovel-scripts.html)",
             "engine_techstack": "Unity",
             "engine_script": "JS (.nani)",
             "status": "**活跃**",
@@ -140,8 +140,10 @@
             "unigal_interoperation": "",
             "unigal_load": "",
             "unigal_dump": "√（开发中）",
-            "is_free": "",
-            "link": "https://www.renpy.org/"
+            "is_free": "MIT",
+            "link": "https://www.renpy.org/",
+            "link_website": "https://www.renpy.org/",
+            "link_repo": "https://github.com/renpy/renpy"
         },
         {
             "engine_uid": "",
@@ -184,7 +186,7 @@
         },
         {
             "engine_uid": "",
-            "engine_name": "Unity-Utage",
+            "engine_name": "Utage",
             "engine_techstack": "Unity",
             "engine_script": "C#",
             "status": "**活跃**",
@@ -192,25 +194,25 @@
             "unigal_interoperation": "",
             "unigal_load": "",
             "unigal_dump": "",
-            "is_free": "",
-            "link": ""
+            "is_free": "Proprietary",
+            "link": "https://madnesslabo.net/utage/"
         },
         {
             "engine_uid": "",
-            "engine_name": "Unity-Fungus",
+            "engine_name": "[Fungus](https://github.com/snozbot/fungus)",
             "engine_techstack": "Unity",
             "engine_script": "C#",
-            "status": "**活跃**",
+            "status": "不活跃",
             "unigal_support": "暂无计划",
             "unigal_interoperation": "",
             "unigal_load": "",
             "unigal_dump": "",
-            "is_free": "",
-            "link": ""
+            "is_free": "MIT",
+            "link": "https://github.com/snozbot/fungus"
         },
         {
             "engine_uid": "",
-            "engine_name": "Unity-Kirino-Engine",
+            "engine_name": "[Kirino-Engine](https://github.com/IJEMIN/Unity-Kirino-Engine)",
             "engine_techstack": "Unity",
             "engine_script": "C#",
             "status": "已停止维护",
@@ -219,15 +221,15 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "",
-            "link": ""
+            "link": "https://github.com/IJEMIN/Unity-Kirino-Engine"
         },
         {
             "engine_uid": "",
-            "engine_name": "Unity-XiheAnimation",
+            "engine_name": "XiheAnimation",
             "engine_techstack": "Unity",
             "engine_script": "C#",
             "status": "未知",
-            "unigal_support": "暂无计划",
+            "unigal_support": "暂无计划(本引擎似乎只用于MoonFall一部作品)",
             "unigal_interoperation": "",
             "unigal_load": "",
             "unigal_dump": "",
