@@ -324,6 +324,32 @@
             "unigal_dump": "",
             "is_free": "MIT",
             "link": "https://github.com/soryu-ryouji/VNFrameworkCore"
+        },
+                {
+            "engine_uid": "",
+            "engine_name": "GoldinkGalgameEngine",
+            "engine_techstack": "未知",
+            "engine_script": "",
+            "status": "",
+            "unigal_support": "",
+            "unigal_interoperation": "",
+            "unigal_load": "",
+            "unigal_dump": "",
+            "is_free": "NO",
+            "link": "https://github.com/ShyiGoldink/GoldinkGalgameEngine/releases/tag/Galgame"
+        },
+                {
+            "engine_uid": "",
+            "engine_name": "VisionGal",
+            "engine_techstack": "",
+            "engine_script": "",
+            "status": "活跃",
+            "unigal_support": "",
+            "unigal_interoperation": "",
+            "unigal_load": "",
+            "unigal_dump": "",
+            "is_free": "MIT",
+            "link": "https://github.com/DarlingZeroX/VisionGal"
         }
     ]
 }
