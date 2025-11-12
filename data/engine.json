@@ -225,19 +225,6 @@
         },
         {
             "engine_uid": "",
-            "engine_name": "XiheAnimation",
-            "engine_techstack": "Unity",
-            "engine_script": "C#",
-            "status": "未知",
-            "unigal_support": "暂无计划(本引擎似乎只用于MoonFall一部作品)",
-            "unigal_interoperation": "",
-            "unigal_load": "",
-            "unigal_dump": "",
-            "is_free": "",
-            "link": ""
-        },
-        {
-            "engine_uid": "",
             "engine_name": "VoidMatrix系列",
             "engine_techstack": "SDL",
             "engine_script": "C++",
