@@ -9,8 +9,12 @@
 |  | Ayaka | rust | ayaka script | 活跃 | 语法简单适合标准方研究支持 |  |  |  | MIT | https://github.com/Uni-Gal/Ayaka |
 |  | GoldinkGalgameEngine | 未知 |  |  |  |  |  |  | NO | https://github.com/ShyiGoldink/GoldinkGalgameEngine/releases/tag/Galgame |
 |  | Ink | js | YAML | 活跃 | 语法简单适合标准方研究支持 |  |  |  | MIT | https://www.inklestudios.com/ink/ |
+|  | Renpy | Python | Python (.rpy) | **活跃** |  |  |  | √（开发中） | MIT | https://www.renpy.org/ |
+|  | Utage | Unity | C# | **活跃** | 暂无计划 |  |  |  | Proprietary | https://madnesslabo.net/utage/ |
 |  | VNFrameworkCore | 未知 | C# | 活跃 | 语法简单适合标准方研究支持 |  |  |  | MIT | https://github.com/soryu-ryouji/VNFrameworkCore |
 |  | VisionGal |  |  | 活跃 |  |  |  |  | MIT | https://github.com/DarlingZeroX/VisionGal |
+|  | VoidNovel | SDL | C++ | **活跃** | （正在与开发者合作） | √（开发中） | √（开发中） | √（开发中） | MIT | https://github.com/VoidmatrixHeathcliff/VoidNovelEngine |
+|  | [Fungus](https://github.com/snozbot/fungus) | Unity | C# | 不活跃 | 暂无计划 |  |  |  | MIT | https://github.com/snozbot/fungus |
 |  | AVG.js | js | json | 未知 |  |  |  | √（开发中） |  |  |
 |  | AVGPlus | js | json | **活跃** | （考虑要不要联系开发者） |  |  | √（开发中） |  | https://avg-engine.com/ |
 |  | BKEngine | 面包工坊 | bkspr (.bkspr) | 已停止维护 |  |  | √（开发中） |  |  | https://bke.bakery.moe/index.html |
@@ -20,16 +24,11 @@
 |  | Librian | Python | liber | **活跃** | （正在说服开发者） | √（开发中） | √（开发中） | √（开发中） |  | http://librian.net/ |
 |  | Monogatari | json | json | **活跃** |  |  |  | √（开发中） |  | https://monogatari.io |
 |  | Renjs | js | javascript | 未知 |  |  |  | √（开发中） |  |  |
-|  | Renpy | Python | Python (.rpy) | **活跃** |  |  |  | √（开发中） |  | https://www.renpy.org/ |
-|  | Unity-Fungus | Unity | C# | **活跃** | 暂无计划 |  |  |  |  |  |
-|  | Unity-Kirino-Engine | Unity | C# | 已停止维护 | 暂无计划 |  |  |  |  |  |
-|  | Unity-Utage | Unity | C# | **活跃** | 暂无计划 |  |  |  |  |  |
-|  | Unity-XiheAnimation | Unity | C# | 未知 | 暂无计划 |  |  |  |  |  |
-|  | VoidMatrix系列 | SDL | C++ | **活跃** | （正在与开发者合作，已经提供XML读取支持了） | √（开发中） | √（开发中） | √（开发中） |  |  |
 |  | WebGal | js | 未知 | 未知 |  |  |  | √（开发中） |  | https://github.com/MakinoharaShoko/WebGAL |
 |  | YukimiScript | Strrationalism | C++ | 不能理解它到底有多少是属于非Galgame的，处于观察中 |  |  |  | √（艰难开发中） |  | https://github.com/Strrationalism/YukimiScript |
-|  | [Unity-Naninovel](https://naninovel.com/guide/naninovel-scripts.html) | Unity | JS (.nani) | **活跃** | 做梦 | 做梦 | 做梦 | √（开发中） |  | https://naninovel.com/ |
-|  | [Unity-Nova](https://github.com/Lunatic-Works/Nova/wiki/NovaScript) | Unity | Lua/C# (.txt) | **活跃** | （正在说服开发者） | √（开发中） | √（开发中） | √（开发中） |  | https://github.com/Lunatic-Works/Nova |
+|  | [Kirino-Engine](https://github.com/IJEMIN/Unity-Kirino-Engine) | Unity | C# | 已停止维护 | 暂无计划 |  |  |  |  | https://github.com/IJEMIN/Unity-Kirino-Engine |
+|  | [Naninovel](https://naninovel.com/guide/naninovel-scripts.html) | Unity | JS (.nani) | **活跃** | 做梦 | 做梦 | 做梦 | √（开发中） |  | https://naninovel.com/ |
+|  | [Nova](https://github.com/Lunatic-Works/Nova/wiki/NovaScript) | Unity | Lua/C# (.txt) | **活跃** | （正在说服开发者） | √（开发中） | √（开发中） | √（开发中） |  | https://github.com/Lunatic-Works/Nova |
 |  | [VNVE](https://github.com/vnve/vnve) | js |  |  |  |  |  |  |  | https://vnve.github.io/vnve/ |
 |  | iFAction | 橙光 | 可视化 | 活跃 | 暂无计划 |  |  |  |  |  |
 |  | 橙光文字游戏制作工具 | 橙光 | 可视化 | **生不如死** | 暂无计划 |  |  |  |  |  |
