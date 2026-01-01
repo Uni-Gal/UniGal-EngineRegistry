@@ -225,16 +225,16 @@
         },
         {
             "engine_uid": "",
-            "engine_name": "VoidMatrix系列",
+            "engine_name": "VoidNovel",
             "engine_techstack": "SDL",
             "engine_script": "C++",
             "status": "**活跃**",
-            "unigal_support": "（正在与开发者合作，已经提供XML读取支持了）",
+            "unigal_support": "（正在与开发者合作）",
             "unigal_interoperation": "√（开发中）",
             "unigal_load": "√（开发中）",
             "unigal_dump": "√（开发中）",
-            "is_free": "",
-            "link": ""
+            "is_free": "MIT",
+            "link": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine"
         },
         {
             "engine_uid": "",
