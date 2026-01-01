@@ -12,7 +12,7 @@
             "unigal_dump": "",
             "is_free": "",
             "link": {
-                "official_website": "https://vnve.github.io/vnve/",
+                "website": "https://vnve.github.io/vnve/",
                 "repo": ""
             }
         },
@@ -28,7 +28,7 @@
             "unigal_dump": "√（开发中）",
             "is_free": "",
             "link": {
-                "official_website": "",
+                "website": "",
                 "repo": ""
             }
         },
@@ -43,15 +43,14 @@
             "unigal_load": "√（开发中）",
             "unigal_dump": "",
             "is_free": "",
-            "link": "https://bke.bakery.moe/index.html"
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "https://bke.bakery.moe/index.html",
                 "repo": ""
             }
         },
         {
             "engine_uid": "",
-            "engine_name": "[Nova](https://github.com/Lunatic-Works/Nova/wiki/NovaScript)",
+            "engine_name": "Nova",
             "engine_techstack": "Unity",
             "engine_script": "Lua/C# (.txt)",
             "status": "**活跃**",
@@ -60,15 +59,15 @@
             "unigal_load": "√（开发中）",
             "unigal_dump": "√（开发中）",
             "is_free": "",
-            "link": "https://github.com/Lunatic-Works/Nova"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "link": {
+                "website": "https://github.com/Lunatic-Works/Nova",
+                "repo": "https://github.com/Lunatic-Works/Nova",
+                "wiki": "https://github.com/Lunatic-Works/Nova/wiki/NovaScript"
             }
         },
         {
             "engine_uid": "",
-            "engine_name": "[Naninovel](https://naninovel.com/guide/naninovel-scripts.html)",
+            "engine_name": "[Naninovel]()",
             "engine_techstack": "Unity",
             "engine_script": "JS (.nani)",
             "status": "**活跃**",
@@ -77,10 +76,10 @@
             "unigal_load": "做梦",
             "unigal_dump": "√（开发中）",
             "is_free": "",
-            "link": "https://naninovel.com/"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "link": {
+                "website": "https://naninovel.com/",
+                "repo": "",
+                "wiki": "https://naninovel.com/guide/naninovel-scripts.html"
             }
         },
         {
@@ -88,16 +87,15 @@
             "engine_name": "Librian",
             "engine_techstack": "Python",
             "engine_script": "liber",
-            "status": "**活跃**",
+            "status": "**已停止维护**",
             "unigal_support": "（正在说服开发者）",
             "unigal_interoperation": "√（开发中）",
             "unigal_load": "√（开发中）",
             "unigal_dump": "√（开发中）",
-            "is_free": "",
-            "link": "http://librian.net/"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "is_free": "MPL-2.0",
+            "link": {
+                "website": "http://librian.net/",
+                "repo": "https://github.com/RimoChan/Librian"
             }
         },
         {
@@ -111,9 +109,8 @@
             "unigal_load": "",
             "unigal_dump": "√（开发中）",
             "is_free": "",
-            "link": "https://avg-engine.com/"
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "https://avg-engine.com/",
                 "repo": ""
             }
         },
@@ -128,9 +125,8 @@
             "unigal_load": "",
             "unigal_dump": "√（开发中）",
             "is_free": "",
-            "link": ""
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "",
                 "repo": ""
             }
         },
@@ -145,10 +141,9 @@
             "unigal_load": "",
             "unigal_dump": "√（开发中）",
             "is_free": "",
-            "link": "https://github.com/MakinoharaShoko/WebGAL"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "link": {
+                "website": "https://github.com/MakinoharaShoko/WebGAL",
+                "repo": "https://github.com/MakinoharaShoko/WebGAL"
             }
         },
         {
@@ -162,9 +157,8 @@
             "unigal_load": "",
             "unigal_dump": "√（开发中）",
             "is_free": "",
-            "link": ""
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "",
                 "repo": ""
             }
         },
@@ -179,12 +173,9 @@
             "unigal_load": "",
             "unigal_dump": "√（开发中）",
             "is_free": "MIT",
-            "link": "https://www.renpy.org/",
-            "link_website": "https://www.renpy.org/",
-            "link_repo": "https://github.com/renpy/renpy"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "link": {
+                "website": "https://www.renpy.org/",
+                "repo": "https://github.com/renpy/renpy"
             }
         },
         {
@@ -198,10 +189,9 @@
             "unigal_load": "",
             "unigal_dump": "√（艰难开发中）",
             "is_free": "",
-            "link": "https://github.com/Strrationalism/YukimiScript"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "link": {
+                "website": "https://github.com/Strrationalism/YukimiScript",
+                "repo": "https://github.com/Strrationalism/YukimiScript"
             }
         },
         {
@@ -215,9 +205,8 @@
             "unigal_load": "",
             "unigal_dump": "√（开发中）",
             "is_free": "",
-            "link": "https://monogatari.io"
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "https://monogatari.io",
                 "repo": ""
             }
         },
@@ -232,11 +221,11 @@
             "unigal_load": "",
             "unigal_dump": "√（开发中）",
             "is_free": "",
-            "link": ""
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "",
                 "repo": ""
-            }
+            },
+            "note": "叫这个名字的很多，所以要区分不同的GameCreator需要engine_uid"
         },
         {
             "engine_uid": "",
@@ -249,15 +238,14 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "Proprietary",
-            "link": "https://madnesslabo.net/utage/"
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "https://madnesslabo.net/utage/",
                 "repo": ""
             }
         },
         {
             "engine_uid": "",
-            "engine_name": "[Fungus](https://github.com/snozbot/fungus)",
+            "engine_name": "Fungus",
             "engine_techstack": "Unity",
             "engine_script": "C#",
             "status": "不活跃",
@@ -266,15 +254,14 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "MIT",
-            "link": "https://github.com/snozbot/fungus"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "link": {
+                "website": "https://github.com/snozbot/fungus",
+                "repo": "https://github.com/snozbot/fungus"
             }
         },
         {
             "engine_uid": "",
-            "engine_name": "[Kirino-Engine](https://github.com/IJEMIN/Unity-Kirino-Engine)",
+            "engine_name": "Kirino-Engine",
             "engine_techstack": "Unity",
             "engine_script": "C#",
             "status": "已停止维护",
@@ -283,10 +270,9 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "",
-            "link": "https://github.com/IJEMIN/Unity-Kirino-Engine"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "link": {
+                "website": "https://github.com/IJEMIN/Unity-Kirino-Engine",
+                "repo": "https://github.com/IJEMIN/Unity-Kirino-Engine"
             }
         },
         {
@@ -295,15 +281,14 @@
             "engine_techstack": "SDL",
             "engine_script": "C++",
             "status": "**活跃**",
-            "unigal_support": "（正在与开发者合作）",
-            "unigal_interoperation": "√（开发中）",
-            "unigal_load": "√（开发中）",
-            "unigal_dump": "√（开发中）",
+            "unigal_support": "（较为困难）",
+            "unigal_interoperation": "",
+            "unigal_load": "",
+            "unigal_dump": "",
             "is_free": "MIT",
-            "link": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "link": {
+                "website": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine",
+                "repo": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine"
             }
         },
         {
@@ -317,9 +302,8 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "",
-            "link": ""
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "",
                 "repo": ""
             }
         },
@@ -328,15 +312,14 @@
             "engine_name": "iFAction",
             "engine_techstack": "橙光",
             "engine_script": "可视化",
-            "status": "活跃",
+            "status": "不乐观",
             "unigal_support": "暂无计划",
             "unigal_interoperation": "",
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "",
-            "link": ""
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "",
                 "repo": ""
             }
         },
@@ -351,9 +334,8 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "",
-            "link": ""
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "",
                 "repo": ""
             }
         },
@@ -368,16 +350,15 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "MIT",
-            "link": "https://www.inklestudios.com/ink/"
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "https://www.inklestudios.com/ink/",
                 "repo": ""
             }
         },
         {
             "engine_uid": "",
             "engine_name": "Ayaka",
-            "engine_techstack": "rust",
+            "engine_techstack": "rust desktop",
             "engine_script": "ayaka script",
             "status": "活跃",
             "unigal_support": "语法简单适合标准方研究支持",
@@ -385,10 +366,9 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "MIT",
-            "link": "https://github.com/Uni-Gal/Ayaka"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "link": {
+                "website": "https://github.com/Uni-Gal/Ayaka",
+                "repo": "https://github.com/Uni-Gal/Ayaka"
             }
         },
         {
@@ -402,10 +382,9 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "MIT",
-            "link": "https://github.com/soryu-ryouji/VNFrameworkCore"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "link": {
+                "website": "https://github.com/soryu-ryouji/VNFrameworkCore",
+                "repo": "https://github.com/soryu-ryouji/VNFrameworkCore"
             }
         },
         {
@@ -419,9 +398,8 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "NO",
-            "link": "https://github.com/ShyiGoldink/GoldinkGalgameEngine/releases/tag/Galgame"
-                        "link": {
-                "official_website": "",
+            "link": {
+                "website": "https://github.com/ShyiGoldink/GoldinkGalgameEngine/releases/tag/Galgame",
                 "repo": ""
             }
         },
@@ -436,10 +414,9 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "MIT",
-            "link": "https://github.com/DarlingZeroX/VisionGal"
-                        "link": {
-                "official_website": "",
-                "repo": ""
+            "link": {
+                "website": "https://github.com/DarlingZeroX/VisionGal",
+                "repo": "https://github.com/DarlingZeroX/VisionGal"
             }
         }
     ]
