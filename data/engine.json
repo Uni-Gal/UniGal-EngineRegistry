@@ -11,7 +11,10 @@
             "unigal_load": "",
             "unigal_dump": "",
             "is_free": "",
-            "link": "https://vnve.github.io/vnve/"
+            "link": {
+                "official_website": "https://vnve.github.io/vnve/",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -24,7 +27,10 @@
             "unigal_load": "",
             "unigal_dump": "√（开发中）",
             "is_free": "",
-            "link": ""
+            "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -38,6 +44,10 @@
             "unigal_dump": "",
             "is_free": "",
             "link": "https://bke.bakery.moe/index.html"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -51,6 +61,10 @@
             "unigal_dump": "√（开发中）",
             "is_free": "",
             "link": "https://github.com/Lunatic-Works/Nova"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -64,6 +78,10 @@
             "unigal_dump": "√（开发中）",
             "is_free": "",
             "link": "https://naninovel.com/"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -77,6 +95,10 @@
             "unigal_dump": "√（开发中）",
             "is_free": "",
             "link": "http://librian.net/"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -90,6 +112,10 @@
             "unigal_dump": "√（开发中）",
             "is_free": "",
             "link": "https://avg-engine.com/"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -103,6 +129,10 @@
             "unigal_dump": "√（开发中）",
             "is_free": "",
             "link": ""
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -116,6 +146,10 @@
             "unigal_dump": "√（开发中）",
             "is_free": "",
             "link": "https://github.com/MakinoharaShoko/WebGAL"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -129,6 +163,10 @@
             "unigal_dump": "√（开发中）",
             "is_free": "",
             "link": ""
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -144,6 +182,10 @@
             "link": "https://www.renpy.org/",
             "link_website": "https://www.renpy.org/",
             "link_repo": "https://github.com/renpy/renpy"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -157,6 +199,10 @@
             "unigal_dump": "√（艰难开发中）",
             "is_free": "",
             "link": "https://github.com/Strrationalism/YukimiScript"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -170,6 +216,10 @@
             "unigal_dump": "√（开发中）",
             "is_free": "",
             "link": "https://monogatari.io"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -183,6 +233,10 @@
             "unigal_dump": "√（开发中）",
             "is_free": "",
             "link": ""
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -196,6 +250,10 @@
             "unigal_dump": "",
             "is_free": "Proprietary",
             "link": "https://madnesslabo.net/utage/"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -209,6 +267,10 @@
             "unigal_dump": "",
             "is_free": "MIT",
             "link": "https://github.com/snozbot/fungus"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -222,6 +284,10 @@
             "unigal_dump": "",
             "is_free": "",
             "link": "https://github.com/IJEMIN/Unity-Kirino-Engine"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -235,6 +301,10 @@
             "unigal_dump": "√（开发中）",
             "is_free": "MIT",
             "link": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -248,6 +318,10 @@
             "unigal_dump": "",
             "is_free": "",
             "link": ""
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -261,6 +335,10 @@
             "unigal_dump": "",
             "is_free": "",
             "link": ""
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -274,6 +352,10 @@
             "unigal_dump": "",
             "is_free": "",
             "link": ""
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -287,6 +369,10 @@
             "unigal_dump": "",
             "is_free": "MIT",
             "link": "https://www.inklestudios.com/ink/"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -300,6 +386,10 @@
             "unigal_dump": "",
             "is_free": "MIT",
             "link": "https://github.com/Uni-Gal/Ayaka"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
         {
             "engine_uid": "",
@@ -313,8 +403,12 @@
             "unigal_dump": "",
             "is_free": "MIT",
             "link": "https://github.com/soryu-ryouji/VNFrameworkCore"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
-                {
+        {
             "engine_uid": "",
             "engine_name": "GoldinkGalgameEngine",
             "engine_techstack": "未知",
@@ -326,8 +420,12 @@
             "unigal_dump": "",
             "is_free": "NO",
             "link": "https://github.com/ShyiGoldink/GoldinkGalgameEngine/releases/tag/Galgame"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         },
-                {
+        {
             "engine_uid": "",
             "engine_name": "VisionGal",
             "engine_techstack": "",
@@ -339,6 +437,10 @@
             "unigal_dump": "",
             "is_free": "MIT",
             "link": "https://github.com/DarlingZeroX/VisionGal"
+                        "link": {
+                "official_website": "",
+                "repo": ""
+            }
         }
     ]
 }
